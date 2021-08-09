@@ -1,0 +1,1 @@
+This early stage calculator can be used to evaluate simple mathematics expressions, it has been builded Netbeans using the Javascript motor to perform the mathematical procedures.
